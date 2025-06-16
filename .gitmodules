@@ -1,0 +1,6 @@
+[submodule "FRONT-END-PB"]
+	path = FRONT-END-PB
+	url = https://github.com/duffess/FRONT-END-PB
+[submodule "BikeRental-AluguelDeBikes"]
+	path = BikeRental-AluguelDeBikes
+	url = https://github.com/duffess/BikeRental-AluguelDeBikes
